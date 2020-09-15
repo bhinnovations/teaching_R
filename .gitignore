@@ -1,0 +1,9 @@
+# Session Data files
+.RData
+*.Rproj
+.Rhistory
+
+background/
+code/
+.Rproj.user/
+.DS_Store
